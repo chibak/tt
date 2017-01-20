@@ -1,0 +1,23 @@
+{
+    "group1": {
+        "Adam": 40,
+        "Bob": 74,
+        "Chris": 60,
+        "David": 71
+    },
+    "group1": {
+        "Adam": 40,
+        "Bob": 74,
+        "Chris": 60,
+        "David": 71
+    },
+    "user_default": {
+        "Eric": 44,
+        "hoge": 99,
+        "hogehoge": 9999,
+        "John": 44,
+        "Mike": 99,
+        "chibak": 100,
+        "ken": 33
+    }
+}
